@@ -1,5 +1,7 @@
 # ECIR-2024-llm-screening
 
+## This file serves as a appendix table for result in Section 6: Discussion and outlook; only pure results are showed without further explaination.
+
 ***Table 1. Uncalibrated results comparison when inclusion-exclusion criteria is used in the prompt (note only four datasets are available here: CLEF-2017, CLEF-2018, CLEF-2019-dta, CLEF-2019-Intervention), Seed Collection does not contain extractable information. Inclusion-exclusion criteria extracted using protocol file, topics that does not contain protocol files are disregarded. 2-tailed t-test with bofferoni correction (p<0.05) are compared with LlaMa-2-7b-chat.***
 
 |                  | Model            | P              | R              | B-AC           | F3            | Suc            | WSS            |
